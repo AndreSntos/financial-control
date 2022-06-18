@@ -8,7 +8,7 @@ export const Container = styled.div`
 
 export const Header = styled.h1``;
 
-export const title = styled.div`
-  paddin-top: 20px;
+export const Title = styled.div`
+  padding-top: 20px;
   color: #fff;
 `;
